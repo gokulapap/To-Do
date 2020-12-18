@@ -1,14 +1,20 @@
 # To-Do
 A simple to-do Application
 
-#Usage:
+#Usage
 
 [+] python todo.py add 'EVENT'       (add events)
+
 [+] python todo.py delete 'NUMBER'   (delete events)
+
 [+] python todo.py done 'NUMBER'     (add event)
+
 [+] python todo.py ls                (list events)
+
 [+] python todo.py delall            (delete all events)
+
 [+] python todo.py help              (displays usage)
+
 [+] python todo.py report            (Statistics)
 
 * You can add Events

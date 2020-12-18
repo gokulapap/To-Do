@@ -1,7 +1,7 @@
 # To-Do
-A simple to-do Application
+A simple to-do Application to add any events and complete it on time and check your progress.
 
-#Usage
+# Usage
 
 [+] python todo.py add 'EVENT'       (add events)
 
@@ -16,6 +16,8 @@ A simple to-do Application
 [+] python todo.py help              (displays usage)
 
 [+] python todo.py report            (Statistics)
+
+# Features
 
 * You can add Events
 * You can click done once you have completed
